@@ -1,0 +1,7 @@
+services:
+  app:
+    build:
+      context: .
+    user: node
+    volumes:
+      - ".:/usr/src/app"
