@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "./node_modules/.bin/_mocha --reporter spec"
+  },
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  }
+}
