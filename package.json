@@ -3,6 +3,7 @@
     "test": "./node_modules/.bin/_mocha --reporter spec"
   },
   "dependencies": {
+    "luxon": "^3.3.0",
     "mocha": "^5.2.0",
     "should": "^13.2.3"
   }
